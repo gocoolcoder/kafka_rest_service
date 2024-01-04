@@ -5,3 +5,9 @@ This script can be triggered in a vm as a generic python script. It will expose 
 ## prerequisites
 
 - Kafka Cluster (bootstrap servers)
+
+## Supported Authentication
+
+- Basic username password auth
+- Certificate based auth
+- Zero auth
